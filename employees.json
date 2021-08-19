@@ -1,0 +1,23 @@
+{
+	"employees":
+	[
+		{
+			"Name": "Name 1",
+			"Department": "Department 1",
+			"JobDescription": "Job Description 1",
+			"WorkingStatus": "Working Status 1"
+		},
+		{
+			"Name": "Name 2",
+			"Department": "Department 2",
+			"JobDescription": "Job Description 2",
+			"WorkingStatus": "Working Status 2"
+		},
+		{
+			"Name": "Name 3",
+			"Department": "Department 3",
+			"JobDescription": "Job Description 3",
+			"WorkingStatus": "Working Status 3"
+		}
+	]
+}
