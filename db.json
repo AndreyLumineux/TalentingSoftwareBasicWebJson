@@ -2,22 +2,40 @@
 	"employees":
 	[
 		{
-			"Name": "Name 1",
-			"Department": "Department 1",
-			"JobDescription": "Job Description 1",
-			"WorkingStatus": "Working Status 1"
+			"Name": "Marian Popescu",
+			"Department": "IT",
+			"JobDescription": "Programmer",
+			"WorkingStatus": "Part-Time"
 		},
 		{
-			"Name": "Name 2",
-			"Department": "Department 2",
-			"JobDescription": "Job Description 2",
-			"WorkingStatus": "Working Status 2"
+			"Name": "Elena Ionescu",
+			"Department": "IT",
+			"JobDescription": "Programmer",
+			"WorkingStatus": "Full-Time"
 		},
 		{
-			"Name": "Name 3",
-			"Department": "Department 3",
-			"JobDescription": "Job Description 3",
-			"WorkingStatus": "Working Status 3"
+			"Name": "Mircea Zafiu",
+			"Department": "IT",
+			"JobDescription": "Junior Programmer",
+			"WorkingStatus": "Part-Time"
+		},
+		{
+			"Name": "Mihnea Manole",
+			"Department": "Marketing",
+			"JobDescription": "Brand Manager",
+			"WorkingStatus": "Full-Time"
+		},
+		{
+			"Name": "Emanuel Preda",
+			"Department": "HR",
+			"JobDescription": "HR Recruiter",
+			"WorkingStatus": "Full-Time"
+		},
+		{
+			"Name": "Ema Tanase",
+			"Department": "Marketing",
+			"JobDescription": "Marketing Executive",
+			"WorkingStatus": "Full-Time"
 		}
 	]
 }
